@@ -3,13 +3,13 @@ const Contact = _ => {
         <section>
             <h2>📞 Contact Me</h2>
             <br/>
-            <a href="https://wa.me/7286888575" target="_blank">What'sApp</a>
+            <a href="https://wa.me/7286888575" target="_blank" rel="noreferrer">What'sApp</a>
             <br/>
-            <a href="https://github.com/Upendrakarri" target="_blank">Github</a>
+            <a href="https://github.com/Upendrakarri" target="_blank" rel="noreferrer">Github</a>
             <br/>
-            <a href="https://www.linkedin.com/in/upendra-karri-700270225/" target="_blank">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/upendra-karri-700270225/" target="_blank" rel="noreferrer">LinkedIn</a>
             <br/>
-            <a href="https://instagram.com/bunny________135?igshid=YmMyMTA2M2Y=" target="_blank">Instagram</a>
+            <a href="https://instagram.com/bunny________135?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer">Instagram</a>
         </section>
         
     )
