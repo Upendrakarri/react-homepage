@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+:root {
+    --light: #dfd2a7;
+    --dark: #14120f;
+    --medium: #588157;
+}
+
+body{
+    background-color: var(--light);
+}
+
+body,h1,h2,h3,h4,h5,h6,p{
+    margin: 0px;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+img{
+    height: 12rem;
+    width: 14rem;
+    border-radius: 50%;
+    border: 5px solid #14120f;
+}
+section{
+    margin: 1rem;
+}
